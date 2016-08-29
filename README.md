@@ -10,7 +10,7 @@ This is a new repository and we are still in the process of updating our contrib
 
 * This repository area is a working area for JUX contributors and ongoing JUX team projects. It serves as a central location for our contributors and developers to collaborate. 
 * The purpose of this repository is to organize JUX team projects and contributor efforts. We kindly ask that any general suggestions, discussions, or comments please be directed to an existing Joomla! community resource, such as the Joomla! forum or the Joomla! issue tracker. 
-* One of our immediate goals is to create a more streamlined and centralized resource for community and user feedback. All contributors are welcome to assist in this effort.
+* One of our immediate goals is to create a more streamlined and centralized resource for user feedback. All contributors are welcome to us assist in this effort.
 * JUX team strategy discussions and project decisions are part of our offical JUX team process. Contributors are welcome to particpate in our team process by joining the JUX team and attending JUX team meetings.
 
 [Visit our page on the volunteer portal for more information about the JUX working group and becoming a JUX team member](https://volunteers.joomla.org/teams/user-experience-working-group)
