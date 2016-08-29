@@ -2,9 +2,19 @@ Joomla! User Experience Working Group (JUX)
 ====================
 The mission of the Joomla! User Experience Working Group (JUX) is to continually improve user experience, usability and accessibility across all areas of the Joomla! CMS platform.
 
-This project area is a central working area for contributors to the JUX team and ongoing JUX team projects. We are still in the process of creating detailed project and contributor guidelines.
+Contributing
+------------
+The JUX Working Group is an open source, Joomla! community-driven project. Contributions are welcome from everyone. 
 
-If you have questions or would like more information about contributing to the JUX team, please contact [Cliff Pfeifer](https://volunteers.joomla.org/joomlers/316-cliff-pfeifer)
+This is a new repository and we are still in the process of updating our contributor guidelines, documentation, projects and team goals. For now, we have a few simple guidelines:
+
+* This repository area is a working area for JUX contributors and ongoing JUX team projects. It serves as a central location for our contributors and developers to collaborate. 
+* The purpose of this repository is to organize JUX team projects and contributor efforts. While one of our primary goals is implementing a more streamlined system for collecting community and user feedback, we kindly ask that any general "UX" suggestions, discussions, debates or comments not directly related to an ongoing JUX effort please be directed to an existing Joomla! community resource, such as the Joomla! forum or the Joomla! issue tracker.
+* JUX team strategy discussions and project decisions are part of our offical team process. Contributors are welcome to particpate in our process by joining the JUX team and attending JUX team meetings.
+
+[Visit our page on the volunteer portal for more information about the JUX working group and becoming a JUX team member](https://volunteers.joomla.org/teams/user-experience-working-group)
+
+If you have any questions or would like more information about contributing to the JUX team, please contact the [JUX Team Lead](https://volunteers.joomla.org/joomlers/316-cliff-pfeifer)
 
 More About Joomla!
 ------------------
