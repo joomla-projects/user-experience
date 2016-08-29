@@ -6,10 +6,11 @@ Contributing
 ------------
 The JUX Working Group is an open source, Joomla! community-driven project. Contributions are welcome from everyone. 
 
-This is a new repository and we are in the process of updating our contributor guidelines, documentation and team goals. For now, we have a few simple guidelines:
+This is a new repository and we are in the process of updating our contributor guidelines, documentation and team goals. A basic overview of our project follows:
 
 * The purpose of this repository is to organize active JUX team efforts. It serves as a central location for our contributors and developers to collaborate. 
-* We kindly ask that any general suggestions, discussions, or comments please be directed to an existing Joomla! community resource, such as the Joomla! forum or the Joomla! issue tracker. One of our immediate goals is to implement a more streamlined and centralized resource for community feedback and we welcome contributors interested in assisting with this effort.
+* We kindly ask that any general suggestions, discussions, or comments please be directed to an existing Joomla! community resource, such as the Joomla! forum or the Joomla! issue tracker. 
+* One of our immediate goals is to implement a more streamlined and centralized resource for gathering community feedback and interacting with our users. We welcome any contributors who are interested in assisting with this effort.
 * JUX team strategy discussions and project decisions are part of our offical JUX team process. Contributors are welcome to particpate in our team process by joining the JUX team and attending JUX team meetings.
 
 [Visit our page on the volunteer portal for more information about the JUX working group and becoming a JUX team member](https://volunteers.joomla.org/teams/user-experience-working-group)
