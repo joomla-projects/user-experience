@@ -8,7 +8,7 @@ The JUX Working Group is an open source, Joomla! community-driven project. Contr
 
 * The purpose of this repository is to organize JUX team contributors and projects. It serves as a central location for our contributors and developers to collaborate. 
 * Discussions and feedback are welcomed provided they are related to team projects. 
-* General UX or Joomla related suggestions and discussions can be directed here: [JUX Google Group](https://groups.google.com/forum/#!forum/joomla-user-experience)
+* General UX or Joomla related suggestions and discussions can be directed to the [JUX Google Group](https://groups.google.com/forum/#!forum/joomla-user-experience)
 * Contributors are welcome to particpate in our team strategy and project decisions by joining the JUX Working Group.
 [JUX Working Group Volunteer Portal](https://volunteers.joomla.org/teams/user-experience-working-group)
 
