@@ -10,8 +10,8 @@ The JUX appreciates and relies on user feedback, however this repository is not 
 
 ## JUX Team Member Information and Contribution Guidelines
 More information found in our the Wiki section
-[The JUX Project Wiki Documentation](https://github.com/joomla-projects/user-experience/wiki)
-[JUX Team Member Information](https://github.com/joomla-projects/user-experience/wiki/Team-Member-Information)
+* [JUX Project Wiki](https://github.com/joomla-projects/user-experience/wiki)
+* [JUX Team Member Information](https://github.com/joomla-projects/user-experience/wiki/Team-Member-Information)
 
 ### JUX Team Resources
 
