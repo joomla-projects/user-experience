@@ -8,7 +8,7 @@ The JUX Working Group is a Joomla! community driven project and contributions ar
 
 The JUX appreciates and relies on user feedback, however this repository is not an open forum for suggestions or idea submissions. Suggestions, questions or feedback regarding bugs, features and support will be directed to the official Joomla platform resources.
 
-**JUX Team Member Information and Contribution Guidelines**
+## JUX Team Member Information and Contribution Guidelines
 More information found in our the Wiki section
 [The JUX Project Wiki Documentation](https://github.com/joomla-projects/user-experience/wiki)
 [JUX Team Member Information](https://github.com/joomla-projects/user-experience/wiki/Team-Member-Information)
