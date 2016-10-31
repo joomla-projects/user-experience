@@ -4,13 +4,23 @@ The mission of the Joomla! User Experience Working Group (JUX) is to continually
 
 Contributing
 ------------
-The JUX Working Group is an open source, Joomla! community-driven project. Contributions are welcome from everyone. 
+The JUX Working Group is a Joomla! community driven project and contributions are welcome from everyone. The purpose of this repository is to organize JUX working group communications, contributors and projects. It serves as a central location for our team to collaborate.
 
-* The purpose of this repository is to organize JUX team contributors and projects. It serves as a central location for our contributors and developers to collaborate. 
-* Discussions and feedback are welcomed provided they are related to team projects. 
-* General UX or Joomla related suggestions and discussions can be directed to the [JUX Google Group](https://groups.google.com/forum/#!forum/joomla-user-experience)
-* Contributors are welcome to particpate in our team strategy and project decisions by joining the JUX Working Group.
-[JUX Working Group Volunteer Portal](https://volunteers.joomla.org/teams/user-experience-working-group)
+The JUX appreciates and relies on user feedback, however this repository is not an open forum for suggestions or idea submissions. Suggestions, questions or feedback regarding bugs, features and support will be directed to the official Joomla platform resources.
+
+**JUX Team Member Information and Contribution Guidelines**
+More information found in our the Wiki section
+[The JUX Project Wiki Documentation](https://github.com/joomla-projects/user-experience/wiki)
+[JUX Team Member Information](https://github.com/joomla-projects/user-experience/wiki/Team-Member-Information)
+
+### JUX Team Resources
+
+* [JUX Volunteer Portal](https://volunteers.joomla.org/teams/user-experience-working-group)
+* [JUX Google Group](https://groups.google.com/forum/#!forum/joomla-user-experience)
+* [JUX Development Blog](https://developer.joomla.org/cms/user-experience.html)
+* [Joomla Issue Tracker](https://issues.joomla.org)
+* [New Feature Requests](https://github.com/joomla/joomla-cms/labels/New%20Feature)
+* [Official Joomla Usage Statistics](https://developer.joomla.org/about/stats.html)
 
 If you have any questions or would like more information about contributing to the JUX team, please contact the [JUX Team Lead](https://volunteers.joomla.org/joomlers/316-cliff-pfeifer)
 
