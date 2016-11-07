@@ -1,11 +1,15 @@
 Joomla! User Experience Working Group (JUX)
 ====================
-The mission of the Joomla! User Experience Working Group (JUX) is to continually improve user experience, usability and accessibility across all areas of the Joomla! CMS platform.
+The mission of the Joomla! User Experience Working Group (JUX) is to continually improve user experience, usability and accessibility across all areas of the Joomla! CMS platform. The JUX Working Group is a Joomla! community driven project and contributions are welcome from everyone. 
 
-Contributing
-------------
-The JUX Working Group is a Joomla! community driven project and contributions are welcome from everyone. The purpose of this repository is to organize JUX working group communications, contributors and projects. It serves as a central location for our team to collaborate.
+The purpose of this repository is to organize JUX working group communications, contributors and projects. It serves as a central location for our team to collaborate and interact with the community.
 
+Submit request For PR Review by JUX team
+====================
+Our [issues](https://github.com/joomla-projects/user-experience/issues) page is open to community requests for a JUX review of an existing PR. Please reference the PR along with any pertenent details regarding the request and a JUX team member will respond as soon as possible.
+
+Submit ideas or feedback to the JUX team
+=====================
 The JUX appreciates and relies on user feedback, however this repository is not an open forum for suggestions or idea submissions. Suggestions, questions or feedback regarding bugs, features and support will be directed to the official Joomla platform resources.
 
 ## JUX Team Member Information and Contribution Guidelines
