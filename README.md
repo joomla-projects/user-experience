@@ -10,7 +10,7 @@ If would like the JUX team to review an existing PR, please use our [issues area
 
 Submit ideas or feedback to the JUX team
 =====================
-The JUX appreciates and relies on user feedback, however this repository is not an open forum for suggestions or idea submissions. Suggestions, questions or feedback regarding bugs, features and support will be directed to the official Joomla platform resources.
+The JUX appreciates and relies on user feedback, however this repository is not an open forum for suggestions or idea submissions. Suggestions, questions or feedback regarding bugs, features and support will be directed to the official Joomla platform resources. Our team resource links are listed below.
 
 ## JUX Team Member Information and Contribution Guidelines
 More information found in our the Wiki section
