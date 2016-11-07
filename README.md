@@ -4,9 +4,9 @@ The mission of the Joomla! User Experience Working Group (JUX) is to continually
 
 The purpose of this repository is to organize JUX working group communications, contributors and projects. It serves as a central location for our team to collaborate and interact with the community.
 
-Submit request For PR Review by JUX team
+Submit PR review request for the JUX team
 ====================
-Our [issues](https://github.com/joomla-projects/user-experience/issues) page is open to community requests for a JUX review of an existing PR. Please reference the PR along with any pertenent details regarding the request and a JUX team member will respond as soon as possible.
+If would like the JUX team to review an existing PR, please use our [issues area](https://github.com/joomla-projects/user-experience/issues) and start an issue. Please reference the PR along with any pertenent details regarding the request. A JUX team member will respond as soon as possible.
 
 Submit ideas or feedback to the JUX team
 =====================
