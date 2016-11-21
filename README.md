@@ -6,7 +6,7 @@ The purpose of this repository is to organize JUX working group communications, 
 
 Submit PR review request for the JUX team
 ====================
-If would like the JUX team to review an existing PR, please use our [issues area](https://github.com/joomla-projects/user-experience/issues) and start an issue. Please reference the PR along with any pertenent details regarding the request. A JUX team member will respond as soon as possible.
+Use the "UX" Label to flag an issue or PR for UX team review
 
 Submit ideas or feedback to the JUX team
 =====================
