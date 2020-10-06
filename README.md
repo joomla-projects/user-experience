@@ -1,4 +1,4 @@
-NOTE - This repository has been archived for now.
+NOTE - This repository has been archived for now. All suggestions and proposal for Joomla User Experience should be posted to the [main repo](https://github.com/joomla/joomla-cms) instead.
 
 Joomla! User Experience Working Group (JUX)
 ====================
