@@ -1,3 +1,5 @@
+NOTE - This repository has been archived for now.
+
 Joomla! User Experience Working Group (JUX)
 ====================
 The mission of the Joomla! User Experience Working Group (JUX) is to continually improve user experience, usability and accessibility across all areas of the Joomla! CMS platform. The JUX Working Group is a Joomla! community driven project and contributions are welcome from everyone. 
